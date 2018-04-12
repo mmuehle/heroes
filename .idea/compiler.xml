@@ -6,11 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="heroes" />
+        <module name="spring-cloud-gateway-core" />
+        <module name="spring-cloud-gateway-mvc" />
+        <module name="spring-cloud-gateway-sample" />
+        <module name="spring-cloud-starter-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="heroes" target="1.8" />
+      <module name="spring-cloud-gateway" target="1.8" />
+      <module name="spring-cloud-gateway-core" target="1.8" />
+      <module name="spring-cloud-gateway-dependencies" target="1.5" />
+      <module name="spring-cloud-gateway-docs" target="1.8" />
+      <module name="spring-cloud-gateway-mvc" target="1.8" />
+      <module name="spring-cloud-gateway-sample" target="1.8" />
+      <module name="spring-cloud-starter-gateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

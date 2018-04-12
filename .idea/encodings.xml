@@ -2,5 +2,11 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/docs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-gateway" charset="UTF-8" />
   </component>
 </project>
